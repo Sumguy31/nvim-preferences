@@ -1,5 +1,6 @@
 set encoding=utf-8
 set termguicolors
+set nocompatible
 
 set relativenumber
 set tabstop=4
